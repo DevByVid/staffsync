@@ -2,8 +2,8 @@
 
 A full-stack HRM web application built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It gives HR, Managers and Employees their own role-based dashboards to manage employees, leaves, attendance, announcements and training programs.
 
-**Live Demo:** `https://<your-app>.vercel.app`  
-**Backend API:** `https://<your-api>.onrender.com`
+**Live Demo:** `https://staffsync-cnc55157u-vidushii.vercel.app`  
+**Backend API:** `https://staffsync-api-tqrr.onrender.com`
 
 > The backend runs on Render's free tier, which sleeps after 15 minutes of inactivity. The **first** request can take ~50 seconds to wake it up — after that it is fast.
 
